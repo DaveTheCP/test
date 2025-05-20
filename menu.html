@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Menu - Chorley Town Café</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Structured Data for Google Menu Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Menu",
+    "name": "Chorley Town Café Menu",
+    "hasMenuSection": [
+      {
+        "@type": "MenuSection",
+        "name": "Breakfast",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Placeholder Breakfast",
+            "description": "A hearty breakfast to start your day.",
+            "image": "https://yourdomain.com/assets/IMG_5547.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.99",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Placeholder Coffee",
+            "description": "Freshly brewed coffee made with love.",
+            "image": "https://yourdomain.com/assets/IMG_9657.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.49",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Placeholder Sandwich",
+            "description": "Tasty sandwich with your choice of fillings.",
+            "image": "https://yourdomain.com/assets/placeholder.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.50",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Lunch",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Placeholder Salad",
+            "description": "Fresh salad with seasonal vegetables.",
+            "image": "https://yourdomain.com/assets/placeholder.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.00",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Placeholder Soup",
+            "description": "Warm and comforting soup of the day.",
+            "image": "https://yourdomain.com/assets/placeholder.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.50",
+              "priceCurrency": "GBP"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Placeholder Pasta",
+            "description": "Delicious pasta with a choice of sauces.",
+            "image": "https://yourdomain.com/assets/placeholder.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.00",
+              "priceCurrency": "GBP"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">Chorley Town Café</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="menu-container" id="menu">
+      <h2>Our Menu</h2>
+      <select id="menu-filter">
+        <option value="all">All</option>
+        <option value="breakfast">Breakfast</option>
+        <option value="lunch">Lunch</option>
+        <option value="dinner">Dinner</option>
+      </select>
+      <div class="menu-grid" id="menu-items">
+        <!-- Menu items injected via JS -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Chorley Town Café. All rights reserved.</p>
+  </footer>
+
+  <script src="scripts/menu.js"></script>
+</body>
+</html>

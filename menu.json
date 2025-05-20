@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Placeholder Breakfast",
+    "description": "A hearty breakfast to start your day.",
+    "price": "£5.99",
+    "image": "assets/chocolatte.jpg",
+    "category": "breakfast"
+  },
+    {
+      "name": "Placeholder Coffee",
+      "description": "Freshly brewed coffee made with love.",
+      "price": "£2.49",
+      "image": "assets/IMG_9657.jpg",
+      "category": "breakfast"
+    },
+    {
+      "name": "Placeholder Sandwich",
+      "description": "Tasty sandwich with your choice of fillings.",
+      "price": "£4.50",
+      "image": "assets/placeholder.jpg",
+    "category": "breakfast"
+    },
+    {
+      "name": "Placeholder Salad",
+      "description": "Fresh salad with seasonal vegetables.",
+      "price": "£4.00",
+      "image": "assets/placeholder.jpg",
+      "category": "lunch"
+    },
+    {
+      "name": "Placeholder Soup",
+      "description": "Warm and comforting soup of the day.",
+      "price": "£3.50",
+      "image": "assets/placeholder.jpg",
+      "category": "lunch"
+    },
+    {
+      "name": "Placeholder Pasta",
+      "description": "Delicious pasta with a choice of sauces.",
+      "price": "£6.00",
+      "image": "assets/placeholder.jpg",
+      "category": "lunch"
+    }
+  ]
+  
