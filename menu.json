@@ -1,472 +1,492 @@
 [
   {
-    "name": "Battered Cod Fish",
-    "description": "Battered cod with chips and garden or mushy peas.",
-    "price": "£7.50",
+    "name": "Breakfast No. 1",
+    "description": "2 sausage, 2 bacon, 1 egg, served with your choice of beans, grilled tomatoes or tinned tomatoes. Comes with toast and a cup of tea or coffee.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Fish and Chicken"
+    "category": "Breakfast"
   },
   {
-    "name": "Whole-tail Scampi",
-    "description": "Whole-tail scampi with chips and garden or mushy peas.",
-    "price": "£7.50",
+    "name": "Breakfast No. 2",
+    "description": "2 sausages, 2 bacon and a fried egg served alongside buttered barm mushrooms and your choice of grilled or tinned tomatoes. Finished with toast and a cup of tea or coffee.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Fish and Chicken"
+    "category": "Breakfast"
   },
   {
-    "name": "Cod Fish Fingers",
-    "description": "4 cod fish fingers with chips and garden or mushy peas.",
-    "price": "£5.50",
+    "name": "Breakfast No. 3",
+    "description": "Lancashire black pudding, crispy bacon, fried egg, mushrooms, one sliced toast & beans. Includes a cup of tea or coffee.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Fish and Chicken"
+    "category": "Breakfast"
   },
   {
-    "name": "Garlic Chicken Kiev",
-    "description": "Garlic chicken kiev with chips and peas or salad.",
-    "price": "£6.50",
+    "name": "Breakfast No. 4",
+    "description": "Bacon, sausage, egg, hash browns, black pudding, and toast. Includes a cup of tea or coffee.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Fish and Chicken"
+    "category": "Breakfast"
   },
   {
-    "name": "Battered Chicken Nuggets",
-    "description": "8 battered chicken nuggets with chips and peas or beans.",
-    "price": "£5.50",
+    "name": "Breakfast No. 5",
+    "description": "Double sausage, double egg, double hash browns & Toast. Served with beans or tomatoes. Includes a cup of tea or coffee.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Fish and Chicken"
+    "category": "Breakfast"
   },
   {
-    "name": "Southern Fried Chicken Strips",
-    "description": "4 southern fried chicken strips with chips and peas or beans.",
-    "price": "£5.50",
+    "name": "Vegetarian Breakfast No. 1",
+    "description": "2 vegetarian sausages, egg, beans, tomatoes, hash brown and toast. Includes a cup of tea or coffee.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Fish and Chicken"
+    "category": "Breakfast"
   },
   {
-    "name": "Beef Burger",
-    "description": "¼ beef burger with fried onions on a sesame bun.",
-    "price": "£4.50",
+    "name": "Vegetarian Breakfast No. 2",
+    "description": "Two crispy vegetarian sausages, two golden hash browns, a hearty serving of homemade bubble & squeak & mushrooms. Includes a cup of tea or coffee.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Breakfast"
+  },
+  {
+    "name": "Build Your Perfect Breakfast Barm",
+    "description": "Choose from bacon, sausage, egg, hash brown, mushrooms, black pudding, or vegetarian sausage. Available as 1, 2, 3, or 4 item barm.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Breakfast"
+  },
+  {
+    "name": "Naked Beef Burger",
+    "description": "Beef burger in a sesame seed bun with fried onions.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Burgers"
   },
   {
     "name": "Cheeseburger",
-    "description": "¼ cheeseburger with fried onions on a sesame bun.",
-    "price": "£5.00",
+    "description": "Beef burger with cheese in a sesame seed bun with fried onions.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Burgers"
   },
   {
-    "name": "Bacon Burger",
-    "description": "¼ beef burger with crispy bacon, a fried egg, and onions.",
-    "price": "£6.50",
+    "name": "Bacon & Egg Burger (with Onions)",
+    "description": "Beef burger with crispy bacon, fried egg & fried onions.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Burgers"
   },
   {
-    "name": "Half Pound Burger",
-    "description": "½ beef or cheeseburger with fried onions.",
-    "price": "£6.50",
+    "name": "Bacon & Egg Burger (with Mushrooms)",
+    "description": "Beef burger with crispy bacon, fried egg & mushrooms.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Burgers"
   },
   {
-    "name": "Full Works Burger",
-    "description": "½ beef burger with crispy bacon, a fried egg, and onions.",
-    "price": "£7.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Burgers"
-  },
-  {
-    "name": "Crispy Chicken Burger",
-    "description": "Crispy chicken buttermilk fillet burger.",
-    "price": "£5.50",
+    "name": "Buttermilk Chicken Fillet Burger",
+    "description": "Crispy coated chicken fillet in a sesame seed bun.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Burgers"
   },
   {
     "name": "Spicy Chicken Fillet Burger",
-    "description": "Spicy chicken fillet burger with salad.",
-    "price": "£5.50",
+    "description": "Spicy chicken fillet in a sesame seed bun.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Burgers"
   },
   {
-    "name": "Chicken, Bacon, and Cheese Burger",
-    "description": "Chicken fillet burger with crispy bacon and cheddar cheese.",
-    "price": "£6.50",
+    "name": "Chicken Fillet Burger with Bacon & Cheese",
+    "description": "Chicken fillet burger with crispy bacon and cheese.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Burgers"
   },
   {
     "name": "Vegetarian Burger",
-    "description": "A hearty, plant-based burger.",
-    "price": "£5.50",
+    "description": "A meat-free burger option packed with flavour.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Burgers"
   },
   {
-    "name": "Chicken Wrap with Salad",
-    "description": "Crispy chicken fillet with salad in a tortilla wrap.",
-    "price": "£6.50",
+    "name": "Garlic Mayonnaise Chicken Wrap",
+    "description": "Crispy chicken strips with salad and garlic mayonnaise in a wrap, served with chips.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Chicken Wraps"
   },
   {
-    "name": "Sweet Chili Chicken Wrap",
-    "description": "Crispy chicken wrap with sweet chili sauce.",
-    "price": "£6.50",
+    "name": "Sweet Chilli Chicken Wrap",
+    "description": "Crispy chicken strips with salad and sweet chilli sauce in a wrap, served with chips.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Chicken Wraps"
   },
   {
     "name": "Peri Chicken Wrap",
-    "description": "Crispy chicken wrap with peri peri flavor.",
-    "price": "£6.50",
+    "description": "Crispy chicken strips with salad and peri peri sauce in a wrap, served with chips.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Chicken Wraps"
   },
   {
     "name": "BBQ Chicken Wrap",
-    "description": "Crispy chicken wrap with BBQ sauce.",
-    "price": "£6.50",
+    "description": "Crispy chicken strips with salad and BBQ sauce in a wrap, served with chips.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Chicken Wraps"
   },
   {
-    "name": "Hot and Spicy Chicken Wrap",
-    "description": "Crispy chicken wrap with a spicy kick.",
-    "price": "£6.50",
+    "name": "Hot & Spicy Chicken Wrap",
+    "description": "Crispy chicken strips with salad and a hot & spicy sauce in a wrap, served with chips.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Chicken Wraps"
   },
   {
     "name": "Halloumi Wrap",
-    "description": "Grilled halloumi with salad and hummus in a wrap.",
-    "price": "£6.50",
+    "description": "Grilled halloumi cheese, hummus & salad in a wrap, served with chips.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Chicken Wraps"
   },
   {
-    "name": "Gammon Steak",
-    "description": "8oz gammon steak with a fried egg, chips, and peas.",
-    "price": "£7.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Straight From The Grill"
-  },
-  {
-    "name": "Lamb Chops",
-    "description": "2 lamb chops with chips and peas.",
-    "price": "£8.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Straight From The Grill"
-  },
-  {
-    "name": "Sirloin Steak",
-    "description": "Sirloin steak with chips and peas.",
-    "price": "£12.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Straight From The Grill"
-  },
-  {
-    "name": "Beef Patty with Fried Onions",
-    "description": "Beef patty with fried onions, chips, and peas or beans.",
-    "price": "£5.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Straight From The Grill"
-  },
-  {
-    "name": "Beef Patties with Egg",
-    "description": "2 beef patties with a fried egg, chips, and peas or beans.",
-    "price": "£7.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Straight From The Grill"
-  },
-  {
-    "name": "Beef Patty, Bacon, Sausage, Egg",
-    "description": "4oz beef patty, crispy unsmoked bacon, pork sausage, and a fried egg with chips.",
-    "price": "£8.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Straight From The Grill"
-  },
-  {
-    "name": "Beef Patty, Sausage, Egg and Beans",
-    "description": "4oz beef patty, pork sausage, a fried egg, chips, and baked beans.",
-    "price": "£8.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Straight From The Grill"
-  },
-  {
-    "name": "Beef Patty, Frankfurter, Egg",
-    "description": "4oz beef patty, frankfurter, a fried egg, and chips.",
-    "price": "£8.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Straight From The Grill"
-  },
-  {
     "name": "Ham and Cheddar Cheese Toastie",
-    "description": "Toasty with ham and cheddar cheese.",
-    "price": "£4.50",
+    "description": "Served on thick cut white or brown bread.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Toasties"
   },
   {
     "name": "Cheddar Cheese and Onion Toastie",
-    "description": "Toasty with cheddar cheese and diced onions.",
-    "price": "£4.50",
+    "description": "Served on thick cut white or brown bread.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Toasties"
   },
   {
     "name": "Chicken and Cheddar Cheese Toastie",
-    "description": "Toasty with chicken and cheddar cheese.",
-    "price": "£5.50",
+    "description": "Served on thick cut white or brown bread.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Toasties"
   },
   {
     "name": "Cheddar Cheese and Tomato Toastie",
-    "description": "Toasty with cheddar cheese and tomato.",
-    "price": "£4.50",
+    "description": "Served on thick cut white or brown bread.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Toasties"
   },
   {
     "name": "Chorizo and Cheddar Cheese Panini",
-    "description": "Chorizo (Turkish Sucuk) with cheddar cheese.",
-    "price": "£5.50",
+    "description": "Chorizo (Turkish Sucuk) and cheddar cheese panini served with chips or a side salad.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Panini's"
+    "category": "Paninis"
   },
   {
     "name": "Ham and Cheddar Cheese Panini",
-    "description": "Classic ham and cheddar combination.",
-    "price": "£5.50",
+    "description": "Ham and cheddar cheese panini served with chips or a side salad.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Panini's"
+    "category": "Paninis"
   },
   {
     "name": "Cheddar Cheese and Onion Panini",
-    "description": "Toasty with cheddar and diced onions.",
-    "price": "£5.50",
+    "description": "Cheddar cheese and onion panini served with chips or a side salad.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Panini's"
+    "category": "Paninis"
   },
   {
     "name": "Tuna Melt Panini",
-    "description": "Tuna with cheddar cheese.",
-    "price": "£5.50",
+    "description": "Tuna with cheddar cheese panini served with chips or a side salad.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Panini's"
+    "category": "Paninis"
   },
   {
     "name": "Cheddar Cheese and Turkish Sun-dried Tomatoes Panini",
-    "description": "Toasty with cheddar and sun-dried tomatoes.",
-    "price": "£5.50",
+    "description": "Cheddar cheese and sun-dried tomatoes panini served with chips or a side salad.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Panini's"
+    "category": "Paninis"
   },
   {
-    "name": "Homemade Cheese and Onion Pie",
-    "description": "Comfort food with a creamy, rich filling.",
-    "price": "£5.50",
+    "name": "Fish & Chips",
+    "description": "Crispy battered cod fillet with a choice of garden peas or mushy peas.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Pies"
+    "category": "Fish & Chip Dishes"
   },
   {
-    "name": "Steak and Kidney Rag Puddings",
-    "description": "Traditional pudding with rich steak and kidney.",
-    "price": "£6.50",
+    "name": "Battered Cod",
+    "description": "Classic battered cod fillet.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Pies"
+    "category": "Fish & Chip Dishes"
   },
   {
-    "name": "Steak and Gravy Puff Pastry Pie",
-    "description": "Flakey pastry filled with steak and rich gravy.",
-    "price": "£6.50",
+    "name": "Whole Tail Scampi",
+    "description": "Crispy golden scampi pieces.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Pies"
+    "category": "Fish & Chip Dishes"
   },
   {
-    "name": "Plain Jacket Potato",
-    "description": "Fluffy potato with a crispy skin.",
-    "price": "£4.50",
+    "name": "4 Cod Fish Fingers",
+    "description": "Breaded and fried to perfection.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Jacket Potatoes"
+    "category": "Fish & Chip Dishes"
   },
   {
-    "name": "Cheddar Cheese Jacket Potato",
-    "description": "Jacket potato filled with cheddar cheese.",
-    "price": "£5.50",
+    "name": "Garlic Chicken Kiev",
+    "description": "Golden kiev with a garlic butter centre, served with peas or salad.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Jacket Potatoes"
+    "category": "Fish & Chip Dishes"
   },
   {
-    "name": "Baked Beans Jacket Potato",
-    "description": "Jacket potato filled with baked beans.",
-    "price": "£5.50",
+    "name": "8 Battered Chicken Nuggets",
+    "description": "Served with peas or beans.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Jacket Potatoes"
+    "category": "Fish & Chip Dishes"
   },
   {
-    "name": "Tuna Jacket Potato",
-    "description": "Jacket potato filled with tuna.",
-    "price": "£5.50",
+    "name": "4 Southern Fried Chicken Strips",
+    "description": "Served with peas or beans.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
-    "category": "Jacket Potatoes"
-  },
-  {
-    "name": "Coleslaw Jacket Potato",
-    "description": "Jacket potato filled with creamy coleslaw.",
-    "price": "£5.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Jacket Potatoes"
-  },
-  {
-    "name": "Tuna Mayonnaise and Sweetcorn Jacket Potato",
-    "description": "Jacket potato filled with tuna, mayonnaise, and sweetcorn.",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Jacket Potatoes"
-  },
-  {
-    "name": "Homemade Chili Jacket Potato",
-    "description": "Jacket potato filled with rich chili.",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Jacket Potatoes"
-  },
-  {
-    "name": "Plain Omelet",
-    "description": "Fluffy omelet made plain.",
-    "price": "£4.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Cheddar Cheese Omelet",
-    "description": "Fluffy omelet filled with cheddar cheese.",
-    "price": "£5.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Ham Omelet",
-    "description": "Fluffy omelet filled with diced ham.",
-    "price": "£5.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Mushroom Omelet",
-    "description": "Fluffy omelet filled with diced mushrooms.",
-    "price": "£5.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Spanish Omelet",
-    "description": "Fluffy omelet filled with a mixture of tomato, onion, and peppers.",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Ham and Cheddar Cheese Omelet",
-    "description": "Fluffy omelet filled with diced ham and cheddar cheese.",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Mushroom and Cheddar Cheese Omelet",
-    "description": "Fluffy omelet filled with diced mushrooms and cheddar cheese.",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Chicken Omelet",
-    "description": "Fluffy omelet filled with diced chicken.",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Bacon Omelet",
-    "description": "Fluffy omelet filled with crispy bacon.",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Bacon and Cheddar Cheese Omelet",
-    "description": "Fluffy omelet filled with crispy bacon and cheddar cheese.",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Bacon, Chicken, and Cheddar Cheese Omelet",
-    "description": "Fluffy omelet filled with crispy bacon, diced chicken, and cheddar cheese.",
-    "price": "£7.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Tuna Omelet",
-    "description": "Fluffy omelet filled with diced tuna.",
-    "price": "£5.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Tuna and Cheddar Cheese Omelet",
-    "description": "Fluffy omelet filled with diced tuna and cheddar cheese.",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Chorizo (Turkish Sucuk) Omelet",
-    "description": "Fluffy omelet filled with Chorizo (Turkish Sucuk).",
-    "price": "£6.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
-  },
-  {
-    "name": "Chorizo (Turkish Sucuk) and Cheddar Cheese Omelet",
-    "description": "Fluffy omelet filled with Chorizo (Turkish Sucuk) and cheddar cheese.",
-    "price": "£7.50",
-    "image": "assets/placeholder.jpg",
-    "category": "Omelets"
+    "category": "Fish & Chip Dishes"
   },
   {
     "name": "Plain Salad",
-    "description": "Fresh salad with lettuce, tomato, cucumber, onions, and sweetcorn.",
-    "price": "£4.50",
+    "description": "A bed of lettuce with tomato, cucumber, onions, red cabbage, beetroot, grated carrot, sweetcorn, and coleslaw.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Salads"
   },
   {
     "name": "Cheese Salad",
-    "description": "Fresh salad with cheddar cheese.",
-    "price": "£5.50",
+    "description": "Fresh salad topped with cheese.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Salads"
   },
   {
     "name": "Ham Salad",
-    "description": "Fresh salad with diced ham.",
-    "price": "£5.50",
+    "description": "Fresh salad topped with ham.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Salads"
   },
   {
     "name": "Corned Beef Salad",
-    "description": "Fresh salad with corned beef.",
-    "price": "£5.50",
+    "description": "Fresh salad topped with corned beef.",
+    "price": "N/A",
     "image": "assets/placeholder.jpg",
     "category": "Salads"
-    }
-  ]
-  
+  },
+  {
+    "name": "Egg and Avocados Salad",
+    "description": "Fresh salad topped with egg and avocados.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Salads"
+  },
+  {
+    "name": "Halloumi and Hummus Salad",
+    "description": "Fresh salad topped with halloumi and hummus.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Salads"
+  },
+  {
+    "name": "Tuna or Tuna Mayonnaise Salad",
+    "description": "Fresh salad topped with tuna or tuna mayonnaise.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Salads"
+  },
+  {
+    "name": "Chicken Salad",
+    "description": "Fresh salad topped with chicken.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Salads"
+  },
+  {
+    "name": "Plain Omelet",
+    "description": "A plain omelet served with chips or a side salad.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Omelets"
+  },
+  {
+    "name": "Cheddar Cheese Omelet",
+    "description": "Omelet with cheddar cheese, served with chips or a side salad.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Omelets"
+  },
+  {
+    "name": "Spanish Omelet",
+    "description": "Omelet with cheese, tomato, onion, peas, mushrooms, and sweetcorn, served with chips or a side salad.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Omelets"
+  },
+  {
+    "name": "Ham and Cheddar Cheese Omelet",
+    "description": "Omelet with ham and cheddar cheese, served with chips or a side salad.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Omelets"
+  },
+  {
+    "name": "Bacon, Chicken, and Cheddar Cheese Omelet",
+    "description": "Omelet with bacon, chicken, and cheddar cheese, served with chips or a side salad.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Omelets"
+  },
+  {
+    "name": "Chorizo (Turkish Sucuk) and Cheddar Cheese Omelet",
+    "description": "Omelet with Chorizo and cheddar cheese, served with chips or a side salad.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Omelets"
+  },
+  {
+    "name": "8oz Unsmoked Gammon Steak",
+    "description": "Topped with a fried egg. Served with chips & peas.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "From The Grill"
+  },
+  {
+    "name": "2 Lamb Chops",
+    "description": "On the bone, served with chips & peas.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "From The Grill"
+  },
+  {
+    "name": "Sirloin Steak",
+    "description": "Served with chips & peas.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "From The Grill"
+  },
+  {
+    "name": "Grill Tower",
+    "description": "4oz beef patty, fried onions, crispy bacon, pork sausage & fried egg, served with chips.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "From The Grill"
+  },
+  {
+    "name": "Meat Feast Grill",
+    "description": "4oz beef patty, fried onions, pork sausage, egg & beans, served with chips.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "From The Grill"
+  },
+  {
+    "name": "Frankfurter Stack",
+    "description": "4oz beef patty, fried onions, frankfurter sausage, fried egg & chips.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "From The Grill"
+  },
+  {
+    "name": "Homemade Cheese & Onion Pie",
+    "description": "Served with chips or mashed potato, garden or mushy peas, and gravy.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Pies"
+  },
+  {
+    "name": "Steak and Kidney Rag Puddings",
+    "description": "Served with chips or mashed potato, garden or mushy peas, and gravy.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Pies"
+  },
+  {
+    "name": "Steak and Gravy Puff Pastry Pie",
+    "description": "Served with chips or mashed potato, garden or mushy peas, and gravy.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Pies"
+  },
+  {
+    "name": "Homemade Apple Pie",
+    "description": "Served with custard, whipped cream, or 3 scoops of ice cream.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Desserts"
+  },
+  {
+    "name": "Homemade Cherry Pie",
+    "description": "Served with custard, whipped cream, or 3 scoops of ice cream.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Desserts"
+  },
+  {
+    "name": "Apple Crumble",
+    "description": "Served with custard, whipped cream, or 3 scoops of ice cream.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Desserts"
+  },
+  {
+    "name": "Spotted Dick",
+    "description": "Served with custard, whipped cream, or 3 scoops of ice cream.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Desserts"
+  },
+  {
+    "name": "Sticky Toffee Pudding",
+    "description": "Served with custard, whipped cream, or 3 scoops of ice cream.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Desserts"
+  },
+  {
+    "name": "Knickerbocker Glory",
+    "description": "Served with custard, whipped cream, or 3 scoops of ice cream.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Desserts"
+  },
+  {
+    "name": "Iced Latte",
+    "description": "Chilled latte with your choice of syrup.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Drinks"
+  },
+  {
+    "name": "Vanilla Milkshake",
+    "description": "Classic vanilla milkshake.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Drinks"
+  },
+  {
+    "name": "Hot Chocolate Special",
+    "description": "Hot chocolate with cream, marshmallows, chocolate bits & sprinkles.",
+    "price": "N/A",
+    "image": "assets/placeholder.jpg",
+    "category": "Drinks"
+  }
+]
