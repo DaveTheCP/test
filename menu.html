@@ -8,86 +8,346 @@
 
   <!-- Structured Data for Google Menu Schema -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Menu",
-    "name": "Chorley Town Café Menu",
-    "hasMenuSection": [
-      {
-        "@type": "MenuSection",
-        "name": "Breakfast",
-        "hasMenuItem": [
-          {
-            "@type": "MenuItem",
-            "name": "Placeholder Breakfast",
-            "description": "A hearty breakfast to start your day.",
-            "image": "https://yourdomain.com/assets/IMG_5547.jpg",
-            "offers": {
-              "@type": "Offer",
-              "price": "5.99",
-              "priceCurrency": "GBP"
-            }
-          },
-          {
-            "@type": "MenuItem",
-            "name": "Placeholder Coffee",
-            "description": "Freshly brewed coffee made with love.",
-            "image": "https://yourdomain.com/assets/IMG_9657.jpg",
-            "offers": {
-              "@type": "Offer",
-              "price": "2.49",
-              "priceCurrency": "GBP"
-            }
-          },
-          {
-            "@type": "MenuItem",
-            "name": "Placeholder Sandwich",
-            "description": "Tasty sandwich with your choice of fillings.",
-            "image": "https://yourdomain.com/assets/placeholder.jpg",
-            "offers": {
-              "@type": "Offer",
-              "price": "4.50",
-              "priceCurrency": "GBP"
-            }
-          }
-        ]
-      },
-      {
-        "@type": "MenuSection",
-        "name": "Lunch",
-        "hasMenuItem": [
-          {
-            "@type": "MenuItem",
-            "name": "Placeholder Salad",
-            "description": "Fresh salad with seasonal vegetables.",
-            "image": "https://yourdomain.com/assets/placeholder.jpg",
-            "offers": {
-              "@type": "Offer",
-              "price": "4.00",
-              "priceCurrency": "GBP"
-            }
-          },
-          {
-            "@type": "MenuItem",
-            "name": "Placeholder Soup",
-            "description": "Warm and comforting soup of the day.",
-            "image": "https://yourdomain.com/assets/placeholder.jpg",
-            "offers": {
-              "@type": "Offer",
-              "price": "3.50",
-              "priceCurrency": "GBP"
-            }
-          },
-          {
-            "@type": "MenuItem",
-            "name": "Placeholder Pasta",
-            "description": "Delicious pasta with a choice of sauces.",
-            "image": "https://yourdomain.com/assets/placeholder.jpg",
-            "offers": {
-              "@type": "Offer",
-              "price": "6.00",
-              "priceCurrency": "GBP"
-            }
+ {
+  "@context": "https://schema.org",
+  "@type": "Menu",
+  "name": "Chorley Town Café Menu",
+  "hasMenuSection": [
+    {
+      "@type": "MenuSection",
+      "name": "Breakfast",
+      "description": "All breakfasts include a cup of freshly brewed tea or coffee. All toasties are served on thick cut white or brown bread.",
+      "hasMenuItem": [
+        {
+          "@type": "MenuItem",
+          "name": "Breakfast No. 1",
+          "description": "2 sausage, 2 bacon, 1 egg, served with your choice of beans, grilled tomatoes or tinned tomatoes. Comes with toast."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Breakfast No. 2",
+          "description": "2 sausages, 2 bacon and a fried egg served alongside buttered barm mushrooms and your choice of grilled or tinned tomatoes. Finished with toast."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Breakfast No. 3",
+          "description": "Lancashire black pudding, crispy bacon, fried egg, mushrooms, one sliced toast & beans."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Breakfast No. 4",
+          "description": "Bacon, sausage, egg, hash browns, black pudding, and toast."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Breakfast No. 5",
+          "description": "Double sausage, double egg, double hash browns & Toast. Served with beans or tomatoes."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Vegetarian Breakfast No. 1",
+          "description": "2 vegetarian sausages, egg, beans, tomatoes, hash brown and toast."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Vegetarian Breakfast No. 2",
+          "description": "Crispy Two vegetarian sausages, two golden hash browns, a hearty serving of homemade bubble & squeak & mushrooms."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Build Your Perfect Breakfast",
+          "description": "Build your perfect breakfast barm - simple & satisfying. Choose from bacon, sausage, egg, hash brown, mushrooms, black pudding, or vegetarian sausage. Available as 1, 2, 3, or 4 item barms."
+        }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "On Toast",
+      "description": "Served on thick cut white or brown toast.",
+      "hasMenuItem": [
+        {
+          "@type": "MenuItem",
+          "name": "2 Fried eggs on toast"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Scrambled egg on toast"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Cheddar cheese on toast"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Baked beans on toast"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "2 poached eggs on toast"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Grilled or tinned tomatoes on toast"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Button mushrooms & baked beans on toast"
+        }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Burgers",
+      "description": "All burgers served in a sesame seed bun with fried onions. Add chips for just £2.20.",
+      "hasMenuItem": [
+        {
+          "@type": "MenuItem",
+          "name": "Naked Beef Burger"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "With Cheeseburger"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "With Bacon & Egg Burger",
+          "description": "with crispy bacon, fried egg & fried onions."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "With Bacon & Egg Burger",
+          "description": "with crispy bacon, fried egg & mushrooms."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Buttermilk Chicken Fillet Burger",
+          "description": "Crispy coated chicken."
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Spicy Chicken Fillet Burger"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Chicken Fillet Burger with Bacon & Cheese"
+        },
+        {
+          "@type": "MenuItem",
+          "name": "Vegetarian Burger",
+          "description": "A meat free option packed with flavour."
+        }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Sandwiches",
+      "description": "All sandwiches are served on a barm cake or thick cut white or brown bread. To serve toasted +50p, Add Salad +50p.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Cheese" },
+        { "@type": "MenuItem", "name": "Ham" },
+        { "@type": "MenuItem", "name": "Corned Beef" },
+        { "@type": "MenuItem", "name": "Tuna or Tuna Mayonnaise" },
+        { "@type": "MenuItem", "name": "Chicken and Bacon" },
+        { "@type": "MenuItem", "name": "BLT", "description": "Crispy Unsmoked Bacon, Shredded lettuce, Sliced Tomatoes" },
+        { "@type": "MenuItem", "name": "Chicken" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Toasties & Paninis",
+      "description": "Toasties are served on thick cut white or brown bread. Paninis are served with chips or a side salad.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Ham and Cheddar Cheese Toastie" },
+        { "@type": "MenuItem", "name": "Cheddar Cheese and Onion Toastie" },
+        { "@type": "MenuItem", "name": "Chicken and Cheddar Cheese Toastie" },
+        { "@type": "MenuItem", "name": "Cheddar Cheese and Tomato Toastie" },
+        { "@type": "MenuItem", "name": "Chorizo (Turkish Sucuk) and Cheddar Cheese Panini" },
+        { "@type": "MenuItem", "name": "Ham and Cheddar Cheese Panini" },
+        { "@type": "MenuItem", "name": "Cheddar Cheese and Onion Panini" },
+        { "@type": "MenuItem", "name": "Tuna Melt Panini", "description": "with Cheddar Cheese and Tuna" },
+        { "@type": "MenuItem", "name": "Cheddar Cheese and Turkish Sun-dried Tomatoes Panini" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Omelettes",
+      "description": "All omelettes are served with chips or a side salad.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Plain Omelet" },
+        { "@type": "MenuItem", "name": "Cheddar Cheese Omelet" },
+        { "@type": "MenuItem", "name": "Ham Omelet" },
+        { "@type": "MenuItem", "name": "Mushroom Omelet" },
+        { "@type": "MenuItem", "name": "Spanish Omelet", "description": "cheese, tomato, onion, peas, mushrooms, sweetcorn" },
+        { "@type": "MenuItem", "name": "Ham and Cheddar Cheese Omelet" },
+        { "@type": "MenuItem", "name": "Mushroom and Cheddar Cheese Omelet" },
+        { "@type": "MenuItem", "name": "Chicken Omelet" },
+        { "@type": "MenuItem", "name": "Bacon Omelet" },
+        { "@type": "MenuItem", "name": "Bacon and Cheddar Cheese Omelet" },
+        { "@type": "MenuItem", "name": "Bacon, Chicken, and Cheddar Cheese Omelet" },
+        { "@type": "MenuItem", "name": "Tuna Omelet" },
+        { "@type": "MenuItem", "name": "Tuna and Cheddar Cheese Omelet" },
+        { "@type": "MenuItem", "name": "Chorizo (Turkish Sucuk) Omelet" },
+        { "@type": "MenuItem", "name": "Chorizo (Turkish Sucuk) and Cheddar Cheese Omelet" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Mains & Grills",
+      "description": "A selection of pies, grills and classic combinations.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Homemade Cheese & Onion Pie", "description": "Served with chips or mashed potato, garden or mushy peas, and gravy." },
+        { "@type": "MenuItem", "name": "Steak and Kidney Rag Puddings", "description": "Served with chips or mashed potato, garden or mushy peas, and gravy." },
+        { "@type": "MenuItem", "name": "Steak and Gravy Puff Pastry Pie", "description": "Served with chips or mashed potato, garden or mushy peas, and gravy." },
+        { "@type": "MenuItem", "name": "8oz Unsmoked Gammon Steak", "description": "Topped with a fried egg. Served with chips & peas." },
+        { "@type": "MenuItem", "name": "2 Lamb Chops", "description": "On the bone, served with chips & peas." },
+        { "@type": "MenuItem", "name": "Sirloin Steak", "description": "Served with chips & peas." },
+        { "@type": "MenuItem", "name": "Grilled Beef Patty", "description": "With fried onions, chips & peas or beans." },
+        { "@type": "MenuItem", "name": "Double Beef Patty Stack", "description": "with fried onions, topped with a fried egg, served with chips, peas or beans." },
+        { "@type": "MenuItem", "name": "Grill Tower", "description": "4oz beef patty, fried onions, crispy bacon, pork sausage & fried egg, served with chips." },
+        { "@type": "MenuItem", "name": "Meat Feast Grill", "description": "4oz beef patty, fried onions, pork sausage, egg & beans, served with chips." },
+        { "@type": "MenuItem", "name": "Frankfurter Stack", "description": "4oz beef patty, fried onions, frankfurter sausage, fried egg & chips." },
+        { "@type": "MenuItem", "name": "Double pork sausage with homemade mash, fried onions & gravy" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Fish & Chips",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Fish & Chips", "description": "Crispy battered cod fillet with a choice of garden peas or mushy peas (or beans/baked where stated)." },
+        { "@type": "MenuItem", "name": "Battered Cod", "description": "Classic battered cod fillet." },
+        { "@type": "MenuItem", "name": "Whole Tail Scampi", "description": "Crispy golden scampi pieces." },
+        { "@type": "MenuItem", "name": "4 Cod Fish Fingers", "description": "breaded and fried to perfection." },
+        { "@type": "MenuItem", "name": "Garlic Chicken Kiev", "description": "Golden kiev with a garlic butter centre, served with peas or salad." },
+        { "@type": "MenuItem", "name": "8 Battered Chicken Nuggets", "description": "Served with peas or beans." },
+        { "@type": "MenuItem", "name": "4 Southern Fried Chicken Strips", "description": "Served with peas or beans." }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Chicken Wraps",
+      "description": "Served with chips. Crispy chicken filler strips with salad and your choice of sauce. Flavours include: Garlic Mayonnaise, Sweet Chilli Chicken, Peri Chicken, BBQ Chicken, Hot & Spicy. Grilled chicken available for £1.00 extra.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Halloumi Wrap", "description": "Grilled halloumi cheese, hummus & salad (vegetarian option)." }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Fresh Salads",
+      "description": "All salads are made on a bed of lettuce with tomato, cucumber, onions, red cabbage, beetroot, grated carrot, sweetcorn, coleslaw, and a topping of your choice.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Plain" },
+        { "@type": "MenuItem", "name": "Cheese" },
+        { "@type": "MenuItem", "name": "Ham" },
+        { "@type": "MenuItem", "name": "Corned Beef" },
+        { "@type": "MenuItem", "name": "Egg and Avocados" },
+        { "@type": "MenuItem", "name": "Halloumi and Hummus" },
+        { "@type": "MenuItem", "name": "Tuna or Tuna Mayonnaise" },
+        { "@type": "MenuItem", "name": "Chicken Salad" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Soups",
+      "description": "All soups are served with a buttered barm cake or thick cut white or brown bread.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Tomato Soup" },
+        { "@type": "MenuItem", "name": "Vegetable Soup" },
+        { "@type": "MenuItem", "name": "Cream of Chicken Soup" },
+        { "@type": "MenuItem", "name": "Cream of Mushroom Soup" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Children's Meals",
+      "description": "All children's meals are served with chips.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Pork Sausage, Fried Egg" },
+        { "@type": "MenuItem", "name": "Pork Sausage and Chips with Beans" },
+        { "@type": "MenuItem", "name": "Egg and Chips" },
+        { "@type": "MenuItem", "name": "Beef Patty with Chips and Beans" },
+        { "@type": "MenuItem", "name": "Egg with Chips and Beans" },
+        { "@type": "MenuItem", "name": "2 Cod Fish Fingers with Chips and Beans" },
+        { "@type": "MenuItem", "name": "4 Battered Chicken Nuggets with Chips and Beans" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Desserts",
+      "description": "All desserts can be served with custard, whipped cream, or 3 scoops of ice cream.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Homemade Apple Pie" },
+        { "@type": "MenuItem", "name": "Homemade Cherry Pie" },
+        { "@type": "MenuItem", "name": "Apple Crumble" },
+        { "@type": "MenuItem", "name": "Spotted Dick" },
+        { "@type": "MenuItem", "name": "Sticky Toffee Pudding" },
+        { "@type": "MenuItem", "name": "Knickerbocker Glory" },
+        { "@type": "MenuItem", "name": "Fruit Salad" },
+        { "@type": "MenuItem", "name": "3 Scoops of Vanilla Ice Cream" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Extras",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Jam or Orange Marmalade" },
+        { "@type": "MenuItem", "name": "Egg" },
+        { "@type": "MenuItem", "name": "Crispy Unsmoked Bacon" },
+        { "@type": "MenuItem", "name": "Baked Beans" },
+        { "@type": "MenuItem", "name": "Tinned or Grilled Tomatoes" },
+        { "@type": "MenuItem", "name": "Button Mushrooms" },
+        { "@type": "MenuItem", "name": "Lancashire Black Pudding" },
+        { "@type": "MenuItem", "name": "Bubble and Squeak" },
+        { "@type": "MenuItem", "name": "Bread and Butter" },
+        { "@type": "MenuItem", "name": "2 Slices of Toast" },
+        { "@type": "MenuItem", "name": "Hash Browns" },
+        { "@type": "MenuItem", "name": "Onion Rings" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Cold Drinks",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Iced Lattes (with syrup)" },
+        { "@type": "MenuItem", "name": "Fresh Apple Juice" },
+        { "@type": "MenuItem", "name": "Fresh Orange Juice" },
+        { "@type": "MenuItem", "name": "Coca-Cola" },
+        { "@type": "MenuItem", "name": "Diet Coke" },
+        { "@type": "MenuItem", "name": "7up" },
+        { "@type": "MenuItem", "name": "Vimto" },
+        { "@type": "MenuItem", "name": "Fanta" },
+        { "@type": "MenuItem", "name": "Ribena" },
+        { "@type": "MenuItem", "name": "Blackcurrant Fruit Shoot" },
+        { "@type": "MenuItem", "name": "Lucozade" },
+        { "@type": "MenuItem", "name": "Milk" },
+        { "@type": "MenuItem", "name": "Sparkling or Still Water" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Milkshakes",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Vanilla" },
+        { "@type": "MenuItem", "name": "Strawberry" },
+        { "@type": "MenuItem", "name": "Chocolate" },
+        { "@type": "MenuItem", "name": "Raspberry" },
+        { "@type": "MenuItem", "name": "Banana" }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Hot Drinks",
+      "description": "All our hot drinks are made to order & special requests can be made from our wide selection of coffee & syrups.",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Tea" },
+        { "@type": "MenuItem", "name": "Coffee" },
+        { "@type": "MenuItem", "name": "Americano" },
+        { "@type": "MenuItem", "name": "Cappuccino" },
+        { "@type": "MenuItem", "name": "Cafe Latte" },
+        { "@type": "MenuItem", "name": "Espresso" },
+        { "@type": "MenuItem", "name": "Mocha" },
+        { "@type": "MenuItem", "name": "Hot Chocolate" },
+        { "@type": "MenuItem", "name": "Hot Chocolate with cream" },
+        { "@type": "MenuItem", "name": "Hot Chocolate Special", "description": "(with cream, marshmallows, chocolate bits & sprinkles)" }
           }
         ]
       }
